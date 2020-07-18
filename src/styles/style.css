@@ -1,0 +1,14 @@
+@import "normalize.css";
+@import "./modules/_main";
+@import "./modules/_variables";
+@import "./modules/_modal.css";
+
+@import "./modules/_mobilemenu.css";
+
+.first-component{
+    color: $main-color;
+
+    .yours{
+        color: orange;
+    }
+}
